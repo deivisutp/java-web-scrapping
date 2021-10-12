@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="brasileirao" title="api-brasileirao" src=".github/img.jpg" />
+</h1>
+
 # brasileirao-api
 Desenvolvimento de um Bot automatizado de raspagem de dados web, capturando informações sobre partidas na página principal do Google, tratando e armazenando os dados no bando de dados H2 e disponibilizando as informações da partida em tempo real em uma API REST. </br>
 
