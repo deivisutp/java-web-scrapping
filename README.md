@@ -1,6 +1,7 @@
 # brasileirao-api
-Desenvolvimento de um Bot automatizado de raspagem de dados web, capturando informações sobre partidas na página principal do Google, tratando e armazenando os dados no bando de dados H2 e disponibilizando as informações da partida em tempo real em uma API REST
-Developing of a bot using web scrapping to get soccer games information using google as a main source and saving the information in a memory db H2 and providing an api to get and manipulate the information.
+Desenvolvimento de um Bot automatizado de raspagem de dados web, capturando informações sobre partidas na página principal do Google, tratando e armazenando os dados no bando de dados H2 e disponibilizando as informações da partida em tempo real em uma API REST. </br>
+
+Developing of a bot using web scrapping to get soccer games information using google as a main source and saving the information in a memory db H2 and providing an API REST to get and manipulate the information. </br>
 
 <h2>Web scrapping project</h2>
 
