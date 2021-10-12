@@ -3,7 +3,6 @@ Desenvolvimento de um Bot automatizado de raspagem de dados web, capturando info
 
 <h2>Projeto de raspagem web, desenvolvido com a utilização de conceitos e técnicas de Web Scraping</h2>
 
-Projeto desenvolvido na criação de conteúdo para a plataforma Udemy
 ```
 
 Para executar o projeto no terminal, digite o seguinte comando:
