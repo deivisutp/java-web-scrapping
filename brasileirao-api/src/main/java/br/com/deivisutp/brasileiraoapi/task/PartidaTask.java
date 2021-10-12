@@ -41,7 +41,7 @@ public class PartidaTask {
         startScheduling("taskPartidaSundayAfternoon()");
     }
 
-    @Scheduled(cron = "0/30 * 09-13 * * TUE", zone = TIME_ZONE)
+    @Scheduled(cron = "0/30 * 11-13 * * SUN", zone = TIME_ZONE)
     public void taskPartidaSundayMorning() {
         startScheduling("taskPartidaSundayMorning()");
     }
